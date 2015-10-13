@@ -1,0 +1,131 @@
+The CAT User's Manual
+CAT v. 7.0: Completely Autonomous Tester
+User Installation and Documentation
+
+CAT System Specifications
+
+    User Friend
+    Mouse Driven
+    Self Cleaning
+    Energy Saving Standby Mode When Not In Use
+    Self Portable Operation
+    Dual Video
+    Bi-directional Audio Input/Output
+    Primary and secondary output ports: high-speed serial port for streaming data and standard parallel port for data blocks.
+    Auto search Routines for Input Data
+    Autocracy for Output Bin
+    Instant Transition (<2 nanoseconds) Between Standby and Full Power Mode
+    Manufactured by MOMCAT in batch mode
+
+Production Details
+
+After basic KIT construction, the unit undergoes six weeks of onside ROM programming and burn-in testing. Listed features are installed during this period. Since MOMCAT uses local suppliers, there may be variations between units. MOMCAT's quality assurance may reject inferior units. Users may sometimes salvage rejected units. Beware of Far East clones. These may violate import restrictions.
+Transporting Your CAT
+
+A suitable transportation case should be used for transportation to the operating site. Failure to properly ship a CAT unit may result in loss or damage to the unit and serious injury to the user.
+Installation Procedures
+
+Upon receiving the CAT unit, the user should examine the unit to verify that all I/O channels are operational. Look for minor bugs in or on the system. Bugs are indicative of the MOMCAT production environment. The user may manually remove any bugs.
+
+Bring the CAT to operation in an environment temperature at 20? C (±3? tolerance). Use a quiet room with the primary user(s) present. Open the transportation case and let the CAT unit auto exit. Initialize the self learning program catfind() by displaying the input bins. These should contain H2O (liquid state, room temperature, 99% purity) and dry energy pellets. Immediately afterwards, display the output bin.
+
+If the user already has a CAT unit successfully installed, it may be possible to download BASIC routines to the new CAT. For the first day or two, the CAT will stay in self learning mode. When the learn buffer overflows, the CAT will auto switch to sleep() mode. This is normal. The MMU system will store the new information to permanent memory. After 72 hours, the CAT will be interacting with the operating environment.
+
+The unit may be placed in direct sunlight. CAT units are operational in all axis: standing, sitting, or laying down. If all basic environment requirements are satisfied, the CAT system will produce a slight hum. This is normal.
+
+A new CAT should not exit the primary site facility. Full portability comes after extensive burn in. Some users never let the CAT unit auto exit the site. The advantages are longer unit life and fewer bugs. Contact with pirate CAT units may lead to unplanned BATCH iteration. Contact with untested CATs may lead to virus infection. If allowed to exit, some CAT units may try to port across a street. Fatal errors may happen. If you decide to let your CAT out, it should have a READ_ME.TXT file with a system address and URL which identifies the host site.
+
+Your CAT should have a system name. The name may need to be reinitialized repeatedly until the system can read it correctly. This lets you issue voice commands to bring the unit to an online state. Many owners give their CATs a secret password as well. You can also get the CAT's attention by booting the system. While this is effective, it is discouraged. Too much booting will abuse the system. Such units will sit across the room with its back to you.
+Applications for Your CAT Unit
+
+At present, there are few productivity applications for CAT.
+
+MOUSE is a killer app. This is pre-installed.
+
+Many owners use their system for game playing. CATs play best when they are young. Older units suffer a system timing decay which leads to reduced response and flexibility. Some CAT games are:
+
+CACHE
+	
+
+The CAT will CACHE a data string. Similar to the K9 unit game, but the object must be smaller.
+
+JUMP
+	
+
+Move the data string through the air. The CAT unit will reach new heights of operation.
+
+MIRROR
+	
+
+Place the unit in front of a mirror and watch it attempt to parse itself. Some units may ESCape. Reboot the system by calling its name.
+
+CHASE
+	
+
+Played between two CAT units or a CAT and a K9 unit. Units take turns as one is the data and the other attempts to parse it.
+
+SING
+	
+
+Offer fishy data code to elicit a range of audio output.
+
+BUGHUNT
+	
+
+Some CAT units are very efficient bug hunters.
+Maintenance
+
+    CATs will self-recharge. This takes 20 hours in a 24 hour cycle.
+    CATs are self cleaning and require little user maintenance. Do not clean the unit with alcohol or benzine-based solvents. This may lead to a violent explosion.
+    A CAT unit should be taken once a year to a VET (Very Expensive Technician) for a system checkup.
+    Do not attempt to open a CAT. There are no user serviceable parts inside. If a unit emits strange smells or sounds, it should be serviced immediately by a VET.
+    You may examine the rear of the CAT unit to determine if it has a male or female scuzzy port. CATs with a male port may emit a non-toxic aerosol. The VET can remove this component. CATs with female ports are plagued by periodic heating problems. The VET can fix this permanently by removing an internal part. Such systems run unix.
+    In senior CAT units, male scuzzy ports can become blocked, leading to extensive VET visits and serious performance limitations.
+
+Warning Notices
+
+    CAT systems are user-friendly. However, in certain documented situations, a CAT may pose a danger to the user. Repeated jamming or obstruction of I/O ports may lead to deployment of auto-defense systems. Never attempt a first strike on a CAT system. Its CPU clock rate made to milspecs and thus classified, but JANE'S FIGHTING FELINES notes that a unit was seen by ham radio operators to be apparently moving at 500 mHz. Twin D-shaped five-pin spike connectors have an average seek rate of 3 nanoseconds. The manufacturer is not responsible for injuries to the user. These spike connectors require monthly maintenance to avoid damage to site furniture.
+    Do not poke anything into the CAT's I/O ports. CAT may BYTE.
+    In dry, cold weather, a surface electrostatic charge may build up. To avoid electric shock, stand on an insulated surface.
+    Do not operate the CAT above water. This may lead to end-user damage.
+    Carry a CAT firmly. Do not swing it by its "tail".
+    The self-programming feature of the CAT unit may introduce functions that are not user-friendly. For example, the CAT will quickly associate display of the transportation case with a trip to the VET or the offsite storage facility. In such instances, the CAT will self-initiate the ESCAPE mode. This requires the user to employ SEEK and CAPTURE programs to reestablish control of the CAT in order to place it in the transportion case.
+
+Unit Service Life
+
+    As CATs become older, the learn program will recognize every situation. The CAT may become too smart for its own good.
+    CATs like to have their own toys. They often have hobbies, such as bird watching or studying tropical fish.
+    If you properly care for your CAT, it will give you years of loyal service. Many users get a second unit. Most users don't need the extra capacity, but they enjoy the ability to run complex simulation games.
+
+Downtime Storage
+
+If the user will be absent from the host site for an extended period, provision for CAT maintainence must be provided. Options are:
+
+    Offsite storage. This may cause errors in user-associated CAT programs. Some reprogramming may be required.
+    Onsite maintainence by contractors. Contractors must have full access to the host site. They should provide full I/O service to the CAT and forbidden to boot the system.
+
+Lifetime Warranty
+
+    The CAT unit is guaranteed against catastrophic failure. Nine coupons are included.
+    If the unit operates in networks that experience heavy traffic, some units may use all nine coupons in one confrontation. This can lead to system failure.
+
+Documented Problems
+
+    The Ctrl key on many CAT units is defective. This may lead to serious command-and-control problems.
+    Do not install a BIRD unit at a site which has an operational CAT unit. These systems are not compatible. The BIRD unit may be erased permanently.
+    The CAT unit's self-cleaning feature has a capacity limitation. The unit's recycle bin eventually fills and then empties without warning.
+    CAT units have an internal clock. These normally initialize automatic programs (CLEAN, etc.) These cannot be reset by the user. The internal alarm clock often goes off 30 minutes before the user's alarm clock.
+
+System Features
+
+    Models = Main frame, desktop and laptop models (smallest footprint in the industry). Available in 15 inch, 17 inch, and 19 inch sizes.
+    Interface = Touch sensitive interface for maximum user friendliness.
+    Memory = Not much. Upgrades available real soon now.
+    Expected Lifetime = 15 years with ± 72 months (although 20 years are common).
+    Weight = 3-6 kilograms without optional cables.
+    Speed = 3 nanoseconds search/find with self-uprighting supertwist technology.
+    Color Graphics = Either paper white, monochrome (black/white), 64 grey shades, or maximum of 16 million colors with 40 terrabits of high resolution floating point pixels.
+    Sound Chip = 16 octaves, digital MIDI output (MI/OU).
+    Power Consumpution = 250 grams protein daily (2 micrograms per second.)
+    Operating Range = -30? to +45? C (-22? to 105?)
+    Vibration = 5-500 Hz, one octave/min, dwell at all resonance points.
